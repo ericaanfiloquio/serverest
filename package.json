@@ -1,0 +1,16 @@
+{
+  "name": "serverest",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "arch": "^2.2.0",
+    "cypress": "^14.5.1"
+  }
+}
